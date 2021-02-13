@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Introduction-to-programming-in-Java.iml" filepath="$PROJECT_DIR$/.idea/Introduction-to-programming-in-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroductionToGUIProgramming/IntroductionToGUIProgramming.iml" filepath="$PROJECT_DIR$/IntroductionToGUIProgramming/IntroductionToGUIProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming In The Large 1 - Subroutines/Programming In The Large 1 - Subroutines.iml" filepath="$PROJECT_DIR$/Programming In The Large 1 - Subroutines/Programming In The Large 1 - Subroutines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming In The Small 2 ( Control )/Programming In The Small 2 ( Control ).iml" filepath="$PROJECT_DIR$/Programming In The Small 2 ( Control )/Programming In The Small 2 ( Control ).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-In-The-Large-II-Objects-And-Classes/Programming-In-The-Large-II-Objects-And-Classes.iml" filepath="$PROJECT_DIR$/Programming-In-The-Large-II-Objects-And-Classes/Programming-In-The-Large-II-Objects-And-Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingInTheSmall1( Names and Things )/ProgrammingInTheSmall1( Names and Things ).iml" filepath="$PROJECT_DIR$/ProgrammingInTheSmall1( Names and Things )/ProgrammingInTheSmall1( Names and Things ).iml" />
+    </modules>
+  </component>
+</project>
