@@ -60,7 +60,7 @@ public class DealCards extends Application {
         root.setCenter( canvas );
         root.setBottom( buttonBar );
 
-        Scene scene = new Scene( root, 550, 250 );
+        Scene scene = new Scene( root, 525, 250 );
         stage.setScene( scene );
         stage.setTitle( "Blackjack" );
         stage.show();
